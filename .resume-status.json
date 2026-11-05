@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Pipeline resumed from codegen and finished.",
+  "log": "projects/SlideWhistleRibbon/.resume-20261105-185724.log",
+  "attempted_at_epoch": 1793910360
+}

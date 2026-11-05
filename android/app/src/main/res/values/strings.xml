@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slide Whistle Ribbon</string>
+    <string name="app_name_upper">SLIDE WHISTLE RIBBON</string>
+    <string name="splash_title">SLIDE WHISTLE RIBBON</string>
+    <string name="splash_tagline">TRACE THE TUNE</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="start_practice">START PRACTICE</string>
+    <string name="resume">RESUME</string>
+    <string name="use">USE</string>
+    <string name="equipped">EQUIPPED</string>
+    <string name="locked">LOCKED</string>
+    <string name="unlocked">UNLOCKED</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="encore">ENCORE!</string>
+    <string name="on_pitch">ON PITCH</string>
+    <string name="sparkles">SPARKLES</string>
+    <string name="harmony">HARMONY</string>
+    <string name="best">BEST</string>
+    <string name="best_on_pitch">BEST ON PITCH</string>
+    <string name="tunes">TUNES</string>
+    <string name="golden_whistles">GOLDEN WHISTLES</string>
+
+    <string name="practice">PRACTICE</string>
+    <string name="practice_room">PRACTICE ROOM</string>
+    <string name="practice_subtitle">PICK A TUNE AND SLOW IT DOWN</string>
+    <string name="whistles">WHISTLES</string>
+    <string name="whistle_case">WHISTLE CASE</string>
+    <string name="free_slide">FREE SLIDE</string>
+    <string name="free_slide_hint">SLIDE ANYWHERE, NOTHING TO MISS</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="half_speed">HALF SPEED</string>
+    <string name="loop_section">LOOP SECTION</string>
+    <string name="groove">GROOVE</string>
+    <string name="key">KEY</string>
+    <string name="audio_offset">AUDIO OFFSET</string>
+    <string name="volume">VOLUME</string>
+    <string name="strip_side">STRIP SIDE</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="reduced_motion">REDUCED MOTION</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_body">This clears every best take, sparkle and golden whistle.</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="paused">PAUSED</string>
+    <string name="paused_body">The ribbon is waiting. Pick up the tune or head back to the parade.</string>
+
+    <string name="hint_trace">TRACE THE RIBBON WITH ONE FINGER</string>
+    <string name="hint_touch_strip">TOUCH THE STRIP</string>
+    <string name="hint_slower">TRY A SLOWER TAKE IN PRACTICE</string>
+
+    <string name="tone_slide">SLIDE</string>
+    <string name="tone_flute">FLUTE</string>
+    <string name="tone_bird">BIRD</string>
+    <string name="tone_ocarina">OCARINA</string>
+    <string name="tone_kazoo">KAZOO</string>
+
+    <string name="percent_format">%1$d%%</string>
+    <string name="counter_format">%1$d / %2$d</string>
+    <string name="millis_format">%1$d ms</string>
+    <string name="difficulty_format">LEVEL %1$d</string>
+    <string name="requires_format">NEEDS %1$d</string>
+
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_home">Back to the parade</string>
+    <string name="cd_pause">Pause the tune</string>
+    <string name="cd_whistle">Golden whistle</string>
+    <string name="cd_rosette">Ribbon rosette</string>
+    <string name="cd_sparkle">Sparkle notes</string>
+</resources>
